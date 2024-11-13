@@ -1,0 +1,14 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+body{
+	background: hsla(30, 51%, 80%, 1);
+
+background: linear-gradient(90deg, hsla(30, 51%, 80%, 1) 35%, hsla(0, 18%, 82%, 1) 94%);
+
+}
+h1{
+	font-family: fantasy; copperplate 
+}
